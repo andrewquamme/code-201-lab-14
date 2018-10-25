@@ -33,7 +33,7 @@ function showCart() {
 
 }
 
-function removeItemFromCart(event) {
+function removeItemFromCart('click') {
 
   // TODO: When a delete link is clicked, use cart.removeItem to remove the correct item
   // TODO: Save the cart back to local storage
